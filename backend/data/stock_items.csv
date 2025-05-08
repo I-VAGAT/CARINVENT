@@ -1,4 +1,13 @@
 item_type,stock_code,quantity,price,brand
-NavSys,BB102,97,222.0,Lincoln Electric
+NavSys,BB102,77,222.0,Lincoln Electric
 NavSys,SS,21,221.98,FUNUC
-NavSys,DD,22,222.0,sss
+NavSys,BK202,3,144.0,Bosch
+NavSys,SH908,50,98.5,KYB
+NavSys,HL889,72,78.0,Philips
+NavSys,BT112,38,110.0,Amaron
+NavSys,HK101,50,48.92,Hella
+NavSys,BJ808,76,240.0,Tenneco
+NavSys,SNK700,77,102.0,Valeo
+NavSys,JNS191,19,204.0,YNB
+NavSys,SMS101,33,202.0,Magna
+NavSys,SMS101,32,202.0,Heken
